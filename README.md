@@ -1,2 +1,2 @@
 # MyOS
-Simple OS that allows multiple users to print and save files concurrently. 
+Simple OS with a GUI that allows multiple users to print and save files concurrently. 
